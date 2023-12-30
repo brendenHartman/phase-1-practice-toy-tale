@@ -16,19 +16,19 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 7
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 94
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
-      "likes": 1
+      "likes": 11
     },
     {
       "id": 6,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Geoffrey",
+      "image": "https://static.wikia.nocookie.net/freshprince/images/9/96/GeoffreyPortal.jpeg/revision/latest/thumbnail/width/360/height/450?cb=20180421235720",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Brenden Hartman",
+      "image": "https://static.wikia.nocookie.net/freshprince/images/9/96/GeoffreyPortal.jpeg/revision/latest/thumbnail/width/360/height/450?cb=20180421235720",
+      "likes": 5,
+      "id": 10
     }
   ]
 }
